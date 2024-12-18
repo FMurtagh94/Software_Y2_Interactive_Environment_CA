@@ -50,12 +50,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "457D190C64A16428678E08369ECA3E1CD8B2D220",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "FCDA890DD9A6771DA1D19BE5877AB773C6586782",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Glass"
@@ -182,18 +176,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FD6BBD3559C72E297866B135559AC2C1757F82C0",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Shelf"
-			]
-		},
-		{
-			"ShaderMapHash": "D7999939BC6BADBEE8D1D8B346D23193B8D178B6",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
 			"ShaderMapHash": "06C8943DE140195975922B2065DAE31C95411454",
 			"Assets": [
 				"/Game/StarterContent/Props/Materials/M_Lamp"
@@ -257,6 +239,12 @@
 			"ShaderMapHash": "104E3646B402736F05E45AA8258A0F3CF3D85799",
 			"Assets": [
 				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "59FF4F491CF2DE1B86AF978D474157EBFF8FB757",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
 			]
 		},
 		{
@@ -333,6 +321,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "963BE55CC7BD076201F3A699EA560F4F587C59A2",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
 			"ShaderMapHash": "A952D5625E1313E5A6A278EB7A12D0E729AB76D6",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Burst"
@@ -361,12 +355,6 @@
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02",
 				"/Game/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02"
-			]
-		},
-		{
-			"ShaderMapHash": "7D684A6ED110B444246118F51A5D7B5903E42286",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
@@ -407,6 +395,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4B3AB673F37960A02D2120D0D5551F84A25472C9",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "665B28742159D3723563218F2D3714ADD268E3AC",
 			"Assets": [
 				"/Engine/VREditor/UI/ArrowMaterial"
@@ -440,6 +434,12 @@
 			"ShaderMapHash": "2FBBD87A0D43C85F62C8F9E5C61BA09CD63012F4",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_AssetPlatform"
+			]
+		},
+		{
+			"ShaderMapHash": "B2C08B8007CD8CAAC631D26145E8F94F94C3BACE",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
 			]
 		},
 		{
@@ -649,12 +649,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "84340CAA9D6D07DC43D850A01165E8B8F8DA2EDE",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Gold"
-			]
-		},
-		{
 			"ShaderMapHash": "985986AB5C3261A32F751F81972F1B9248DF6E7B",
 			"Assets": [
 				"/Game/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body"
@@ -730,6 +724,12 @@
 			"ShaderMapHash": "F445B1B79E598700707BA8B16E9FADED918F4BE8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D65BA0B8802470BE2F25993644793CCA50835B17",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
@@ -960,6 +960,12 @@
 			"ShaderMapHash": "C4D42BE8EEF4C1BF956EB5C830AF5C7E5D4D7713",
 			"Assets": [
 				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "8BD191EAB30989B6136A822920E42EAEE02F3382",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
 			]
 		},
 		{

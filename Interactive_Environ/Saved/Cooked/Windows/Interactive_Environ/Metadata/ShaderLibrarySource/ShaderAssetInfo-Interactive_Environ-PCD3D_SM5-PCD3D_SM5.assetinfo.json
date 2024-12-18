@@ -50,6 +50,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4322100B63CBC0574CCF32609B111DF7B5CF300C",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "8C5B870E3117D72D840324DE93EF84AF9E5B4520",
 			"Assets": [
 				"/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI"
@@ -110,6 +116,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3790181968DCFFB3256E72D83C550DDBBA061B22",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		},
+		{
 			"ShaderMapHash": "F8BB221B003037F14E1B311657EB54FB45E7AFC5",
 			"Assets": [
 				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
@@ -120,12 +132,6 @@
 			"ShaderMapHash": "EFED581BBB34591CB22F243EBCD7E2FEE7850A07",
 			"Assets": [
 				"/Game/StarterContent/Particles/Materials/M_Burst"
-			]
-		},
-		{
-			"ShaderMapHash": "8075F11B726105D773AFF628F2B9FC160877CD63",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -390,6 +396,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9E0AC45AE615AEF807B420CEFD84C49DCB9CDB3D",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Gold"
+			]
+		},
+		{
 			"ShaderMapHash": "F63C605C8423AAB9E465E86BF644EEAC4C9ED274",
 			"Assets": [
 				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
@@ -483,6 +495,12 @@
 			"ShaderMapHash": "EFAAE378AAF28EB81A17E59337E1DB4BC7B672F0",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "AF4D467BD92280C907063945DDCAC87C7F8BBB18",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -632,12 +650,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C3D5D99B59042F2F9199E3ABAAB94978B45063C8",
-			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Shelf"
-			]
-		},
-		{
 			"ShaderMapHash": "9458AC9C7F5D1A1558E19D4AD7161434E334F1A3",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_Metal_Copper"
@@ -759,12 +771,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F4548AB9BAF7FFE75D16B54E972E3D810A6D716D",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Ground_Grass"
-			]
-		},
-		{
 			"ShaderMapHash": "E7A8DEB9DFAD2CCD2ED3CB4B8AD22257C7198595",
 			"Assets": [
 				"/Game/StarterContent/Materials/M_CobbleStone_Pebble"
@@ -789,15 +795,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DB3B33C1CB2416C506A846FDFC279A71C2EEC53F",
-			"Assets": [
-				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
-			]
-		},
-		{
 			"ShaderMapHash": "0F4BD8C27F62295114FB9ED88BF404E5E9D8FF25",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D661D9C541A099204201B140ADC4B556194B762F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Shelf"
 			]
 		},
 		{
@@ -816,12 +822,6 @@
 			"ShaderMapHash": "6CF78EC87ED91AF413D525CBC7C7DDF7725F6443",
 			"Assets": [
 				"/Engine/EditorMeshes/ColorCalibrator/M_GreyBall"
-			]
-		},
-		{
-			"ShaderMapHash": "4A0733CB266EF86EC7C44D8A9F48B0CC7159D927",
-			"Assets": [
-				"/Game/StarterContent/Materials/M_Metal_Gold"
 			]
 		},
 		{
@@ -960,6 +960,12 @@
 			"ShaderMapHash": "CB9420EF8BD2D6601541B8DED29E0F4AF7F34E19",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "CDF4A9EFADE458E976A384672AFCD51BD5C9E7C3",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
 			]
 		},
 		{
